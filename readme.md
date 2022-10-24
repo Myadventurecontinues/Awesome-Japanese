@@ -217,6 +217,10 @@ _Alphabet of Japanese language._
   - [Reddit Masterlist](https://www.reddit.com/r/languagelearning/comments/5m5426/discord_language_learning_servers_masterlist/) A list on Reddit of all the language Discord servers. Scroll down to the East Asian Languages section for Japanese servers.
 - [HelloTalk](https://www.hellotalk.com/) - Popular language exchange app.:iphone:
 
+## Japanese language schools
+
+- [Toranomon Language Academy](https://toranomon-ls.com) - Tokyo based Japanese school for general and business
+
 ## Video
 
 - YouTube
